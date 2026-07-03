@@ -1,6 +1,6 @@
 Documentación de FirstHacking 
 
-despregramos la maquina  
+Despregramos la maquina  
 
 ![Texto alternativo](https://github.com/Bellze6/Dockerlabs/blob/main/supereasy/FirstHacking/screenshots/Despliegue.png)
 
